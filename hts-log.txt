@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Feb 2020 04:39:21 at http://cvresumetemplate.com/maha-personal-cv-resume-html-template/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://cvresumetemplate.com/maha-personal-cv-resume-html-template/ -O1 "C:\Users\ACER - PC\Desktop\B\B" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:41:07	Warning: 	Retry after error -4 (No data (connection closed)) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/js/jquery.min.js (from cvresumetemplate.com/maha-personal-cv-resume-html-template/)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/glyphicons-halflings-regular.eot (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/bootstrap.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/glyphicons-halflings-regular.eot? (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/bootstrap.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/glyphicons-halflings-regular.woff2 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/bootstrap.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/glyphicons-halflings-regular.woff (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/bootstrap.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/glyphicons-halflings-regular.ttf (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/bootstrap.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/glyphicons-halflings-regular.svg (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/bootstrap.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/fontawesome-webfont.eot?v=4.7.0 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/font-awesome.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/fontawesome-webfont.eot? (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/font-awesome.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/fontawesome-webfont.woff2?v=4.7.0 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/font-awesome.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/fontawesome-webfont.woff?v=4.7.0 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/font-awesome.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/fontawesome-webfont.ttf?v=4.7.0 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/font-awesome.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/fonts/fontawesome-webfont.svg?v=4.7.0 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/font-awesome.min.css)
+04:41:07	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/css/owl.video.play.png (from cvresumetemplate.com/maha-personal-cv-resume-html-template/css/owl.carousel.min.css)
+04:41:37	Warning: 	Retry after error -4 (No data (connection closed)) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/portfolio/g6.png (from cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one.html)
+04:41:38	Warning: 	Retry after error -4 (No data (connection closed)) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/portfolio/g9.png (from cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one.html)
+04:41:38	Warning: 	Retry after error -4 (No data (connection closed)) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/pr-0.jif (from cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one.html)
+04:41:42	Warning: 	Retry after error -4 (No data (connection closed)) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/js/map-init.js (from cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one.html)
+04:41:43	Warning: 	Retry after error -4 (No data (connection closed)) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/icons/font-awesome-4.7.0/css/font-awesome.min.css)
+04:41:43	Warning: 	Retry after error -4 (No data (connection closed)) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/icons/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0 (from cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/icons/font-awesome-4.7.0/css/font-awesome.min.css)
+04:41:48	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/plugins/css/owl.video.play.png (from cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/plugins/css/owl.css)
+04:41:56	Error: 	"Not Found" (404) at link cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/images/slider/pattern.png (from cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/plugins/css/mh-slider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 37 seconds : 146 links scanned, 123 files written (5818344 bytes overall) [3921687 bytes received at 24978 bytes/sec], 2628696 bytes transferred using HTTP compression in 70 files, ratio 25%, 6.0 requests per connection
+(15 errors, 7 warnings, 0 messages)
